@@ -1,5 +1,8 @@
 _repo: The-Sign-of-the-Four_2097
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/69
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2097#The-Sign-of-the-Four
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2000-03-01'
 gutenberg_type: Text
